@@ -6,7 +6,6 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
  * 测试类
- * @author shenshanlaoyuan
  *
  */
 public class TestService {
